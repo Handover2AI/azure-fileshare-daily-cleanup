@@ -65,6 +65,12 @@ The script defines the following parameters:
 
 ---
 
+## 🤝 Contributing
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.  
+We expect all contributors to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+---
+
 ## ✍️ Author
 **Handover2AI-byExistence**  
 Date: 2025‑12‑01
