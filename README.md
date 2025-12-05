@@ -72,5 +72,7 @@ We expect all contributors to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 ---
 
 ## ✍️ Author
-**Handover2AI-byExistence**  
-Date: 2025‑12‑01
+Created and maintained by **Handover2AI-byExistence**.   
+If you find this useful, feel free to star ⭐ the repo or open issues for improvements.
+
+---
