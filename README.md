@@ -1,4 +1,5 @@
 # Azure File Share Cleanup Runbook
+![PSScriptAnalyzer](https://github.com/Handover2AI/AzureFileshareCleanup_AccessKey/actions/workflows/ci-workflow-psscriptanalyzer.yml/badge.svg)
 
 ## 📖 Overview
 This repository contains a PowerShell runbook script for **scheduled maintenance of Azure File Shares**.</br>
